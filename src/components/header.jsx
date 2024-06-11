@@ -27,7 +27,7 @@ const Azalt =()=>{
         <button
          onClick={Arttir}
          >artır</button>
-        {/* <button onClick={Azalt}>azalt</button> */}
+        <button onClick={Azalt}>azalt</button>
       </div>
       <User 
       first={first}
